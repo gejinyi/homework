@@ -1,0 +1,182 @@
+body{
+    background-size: 100%;
+}
+.father{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: absolute;
+    right: 12%;
+}
+.zhihu{
+    height: 90px;
+    width: 128px;
+    
+}
+.child-one{
+    position: relative;
+    right: 4%;
+
+}
+.child-two{
+    background-color: aliceblue;
+    width:  500px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    right: 40%;
+}
+.signflow-tab-active{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.signflow-tab{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.chain{
+    text-decoration: none;
+    color: black;
+}
+.childthree{
+    background-color: aliceblue;
+    width:  500px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    right: 40%;
+}
+.solid{
+   margin: 0 10px;
+   background: #ebebeb;
+   width: 1px;
+   height: 22px;
+}
+.signflowinput-hidden{
+    height: 0px;
+    width: 0px;
+    padding: 0;
+    margin: 0;
+    opacity: 0;
+}
+.child-four{
+    background-color: aliceblue;
+    width:  500px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    right: 40%;
+    justify-content: space-between;
+  
+}
+.yanzheng{
+    height: 48px;
+    padding-left: 0px;
+    margin-left: 20px;
+    border: none;
+    background-color: aliceblue;
+    margin-top: 20PX;
+}
+.phone{
+    border: none;
+    background-color: aliceblue;
+}
+.attain{
+    border: none;
+    color: blue;
+    background-color: aliceblue;
+    margin-bottom: 50px;
+    height: 50px;
+    margin-top: 20PX;
+}
+input::-webkit-input-placeholder{
+    color: red;
+
+}
+.child-five{
+    background-color: aliceblue;
+    width:  500px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    right: 40%;
+    height: 70px;
+    justify-content: center;
+  
+ 
+ 
+}
+.submit{
+    width: 400px;
+    height: 30px;
+    background-color:rgb(20, 151, 238);
+    border: none;
+    color: #ebebeb;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.child-six{
+    background-color: rgb(208, 214, 219);
+    width:  500px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    right: 40%;
+    height: 60px;
+}
+.one{
+    margin-bottom: 0px;
+    margin-left: 20px;
+    color: rgba(89, 87, 92, 0.596);
+    font-size: 12px;
+}
+.two{
+    margin-top: 0px;
+    margin-left: 20px;
+    color: rgba(89, 87, 92, 0.596);
+    font-size: 12px;
+}
+.child-seven{
+    background-color: rgb(208, 214, 219);
+    width:  500px;
+    display: flex;
+    flex-direction:row;
+    position: relative;
+    right: 40%;
+    height: 60px;
+    justify-content: space-around;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.wechattype{
+    width: 25px;
+    height: 25px;
+    margin-top: 20px;
+
+}
+.qq{
+    width: 25px;
+    height: 25px;
+    margin-top: 20px;
+
+}
+.weibotype{
+    width: 25px;
+    height: 25px;
+    margin-top: 20px;
+
+}
+.child-eight{
+    width:  600px;
+    position: absolute;
+    right:30%;
+    top: 100%;
+
+
+}
+.end{
+    color: white;
+    size:15px;
+}

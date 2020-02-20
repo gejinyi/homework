@@ -1,0 +1,172 @@
+body{
+    background-color: rgb(201, 207, 212);
+    margin: 0px;
+}
+
+
+.childtop{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: white;
+    height: 60px;
+    
+}
+.shouye{
+    margin-top: 20px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+.find{
+    margin-top: 20px;
+    margin-right: 40px;
+}
+.respond{
+    margin-top: 20px;
+    margin-right: 40px;
+}
+.research{
+    margin-top: 15px;
+    margin-right: 40px;
+    height: 30px;
+    width: 250px;
+}
+.submit{
+    margin-top: 15px;
+    margin-right: 100px;
+    width: 50px;
+    height: 30px;
+    background-color: rgb(0, 162, 255);
+    color: white;
+    border: 0px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+.xin{
+    margin-top: 15px;
+}
+.user{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.childone{
+    display: flex;
+    flex-direction: row-reverse;
+    height: 150px;
+    width: 1100px;
+    background-color: gray;
+    margin-left: 90px;
+}
+.photo{
+    height: 30px;
+    width: 100px;
+    margin-top: 60px;
+    margin-right: 20px;
+    background-color: grey;
+    border-radius: 5px;
+    border-color: black;
+}
+.childtwo{
+    height: 100px;
+    width: 1100px;
+    margin-left: 90px;
+    background-color: white;
+    display: flex;
+}
+.touxiang{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    position: absolute;
+    left:115px;
+    top:160px;
+}
+.name{
+    margin-left: 140px;
+    font-size: 15px;
+
+}
+.return{
+    text-decoration: none;
+    color: grey;
+    margin-left: 800px;
+}
+.father{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 1100px;
+    margin-left: 90px;
+    background-color: white;
+}
+.shang{
+    margin-left: 200px;
+    margin-bottom: 30px;
+}
+h3{
+  font-size: 15px;
+  font-weight: 600;
+}
+.baocun{
+    color: white;
+    background-color: #0084ff;
+    border: 0px;
+    width: 60px;
+    height: 30px;
+    margin-left: 30px;
+    font-size: 16px;
+}
+.cancle{
+    color: white;
+    background-color: #0084ff;
+    border: 0px;
+    width: 60px;
+    height: 30px;
+    margin-left: 30px;
+    font-size: 16px;
+}
+.introduce{
+    display: flex;
+    margin-top: 30px;
+}
+.introduce1{
+    font-size: 15px;
+    color: #175199;
+    border: none;
+    background-color: white;
+    padding: 0px;
+    margin-left: 30px;
+}
+.address{
+    margin-left: 200px;
+}
+.address1{
+    height: 30px;
+    font-size: 15px;
+}
+.education{
+    margin-left: 200px;
+}
+.education1{
+    height: 30px;
+    font-size: 15px;
+}
+.work{
+    margin-left: 200px;
+}
+.work1{
+    height: 30px;
+    font-size: 15px;
+}
+.changename{
+   margin-right: 100px;
+}
+.name{
+    height: 30px;
+    font-size: 15px;
+    margin-left: 0px;
+}
+.gender{
+    margin-right: 56px;
+}

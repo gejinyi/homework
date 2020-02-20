@@ -1,0 +1,88 @@
+body{
+    background-color: rgb(201, 207, 212);
+    margin: 0px;
+}
+
+
+.childtop{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: white;
+    height: 60px;
+    
+}
+.shouye{
+    margin-top: 20px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+.find{
+    margin-top: 20px;
+    margin-right: 40px;
+}
+.respond{
+    margin-top: 20px;
+    margin-right: 40px;
+}
+.research{
+    margin-top: 15px;
+    margin-right: 40px;
+    height: 30px;
+    width: 250px;
+}
+.submit{
+    margin-top: 15px;
+    margin-right: 100px;
+    width: 50px;
+    height: 30px;
+    background-color: rgb(0, 162, 255);
+    color: white;
+    border: 0px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+.xin{
+    margin-top: 15px;
+}
+.user{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.childone{
+    margin-left: 60px;
+    display: flex;
+    width: 500px;
+    
+}
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.childtwo{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    margin-left: 60px;
+}
+.childthree{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    margin-left: 100px;
+}
+.childfour{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.childfive{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    margin-left: 100px;
+    margin-top: 20px;
+}

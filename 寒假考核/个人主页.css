@@ -1,0 +1,173 @@
+body{
+    background-color: rgb(201, 207, 212);
+    margin: 0px;
+}
+
+
+.childtop{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: white;
+    height: 60px;
+    
+}
+.shouye{
+    margin-top: 20px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+.find{
+    margin-top: 20px;
+    margin-right: 40px;
+}
+.respond{
+    margin-top: 20px;
+    margin-right: 40px;
+}
+.research{
+    margin-top: 15px;
+    margin-right: 40px;
+    height: 30px;
+    width: 250px;
+}
+.submit{
+    margin-top: 15px;
+    margin-right: 100px;
+    width: 50px;
+    height: 30px;
+    background-color: rgb(0, 162, 255);
+    color: white;
+    border: 0px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+.xin{
+    margin-top: 15px;
+}
+.user{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.childone{
+    display: flex;
+    flex-direction: row-reverse;
+    height: 150px;
+    width: 1100px;
+    background-color: gray;
+    margin-left: 90px;
+}
+.photo{
+    height: 30px;
+    width: 100px;
+    margin-top: 60px;
+    margin-right: 20px;
+    background-color: grey;
+    border-radius: 5px;
+    border-color: black;
+}
+.childtwo{
+    height: 120px;
+    width: 1100px;
+    margin-left: 90px;
+    background-color: white;
+    display: flex;
+}
+.touxiang{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    position: absolute;
+    left:115px;
+    top:160px;
+}
+.name{
+    margin-left: 140px;
+    font-size: 25px;
+    font-weight: 600;
+}
+.personal-information{
+    height: 30px;
+    width: 100px;
+    margin-top: 60px;
+    margin-right: 20px;
+    background-color:white;
+    border-radius: 5px;
+    border-color: rgb(31, 176, 243);
+    margin-left: 750px;
+}
+.father{
+    display: flex;
+    margin-top: 5px;
+}
+.childthree{
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    margin-left: 90px;
+}
+.biaotilan{
+    display: flex;
+    height: 50px;
+    width: 700px;
+    background-color: white;
+}
+.dongtai,.huida,.question,.artical,.colect{
+    display: block;
+    line-height: 50px;
+    color:black;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 20px;
+    border: none;
+    background-color: white;
+}
+.shumu1,.shumu2,.shumu3,.shumu4{
+    margin-top: 15px;
+    margin-left: 5px;
+}
+.my{
+    height: 50px;
+    width: 700px;
+    background-color: white;
+}
+h4{
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.neirong{
+    width: 700px;
+    height: 300px;
+    margin-top: 5px;
+    background-color: white;
+}
+.childfour{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 5px;
+    width: 390px;
+    height: 100px;
+    background-color: white;
+}
+.five3{
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    height: 100px;
+}
+.like{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+.spond{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+.strong{
+    display: inline-block;
+    font-size: 18px;
+    text-align: center;
+}

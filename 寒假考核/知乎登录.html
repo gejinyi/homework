@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>知乎账号登录</title>
+    <link href="知乎登录.css" rel="stylesheet" type="text/css"/>
+</head>
+<body background="background.jpg" >
+    <div class="father">
+        <div class="child-one">
+           <img class="zhihu" src="zhihu.jpg"  >
+    </div>
+        <div class="child-two">
+            <div class="signflow-tab-active"><a class="chain" href="file:///C:/Users/%E6%9F%92%E6%9F%92/Desktop/web%E4%BD%9C%E4%B8%9A/%E5%AF%92%E5%81%87%E8%80%83%E6%A0%B8/%E7%9F%A5%E4%B9%8E%E7%99%BB%E5%BD%95.html">免密码登录</a></div>
+            <div class="signflow-tab" ><a class="chain" href="file:///C:/Users/%E6%9F%92%E6%9F%92/Desktop/web%E4%BD%9C%E4%B8%9A/%E5%AF%92%E5%81%87%E8%80%83%E6%A0%B8/%E5%AF%86%E7%A0%81%E7%99%BB%E5%BD%95.html">密码登录</a></div>
+
+
+    </div>
+        <div class="childthree">
+            <button class="select">中国 +86</button>
+            <span class="solid"></span>
+    <form>
+            <input id="phone" name="phone" type="text" placeholder="请输入手机号" value="" maxlength="11">
+            <div class="signflowinput-hidden"></div>
+       
+
+
+        </div>
+        <div class="child-four">
+            <input class="yanzheng" name="yanzheng" type="text" placeholder="请输入验证码" value="" maxlength="6">
+            <input class="attain" name="" type="button" value="获取短信验证码" onclick="settime(this);">
+
+        </div>
+        <div class="child-five">
+            <input class="submit" type="button" value="登录/注册" onclick="Submit()">
+        </div>
+    </form>
+        <div class="child-six">
+            <p class="one">未注册手机验证后自动登录</p>
+           <p class="two"> 注册即代表同意《知乎协议》和《隐私保护指引》</p>
+        </div>
+        <div class="child-seven">
+            <p>社交账号登录</p>
+        
+
+            <div class="wechat">
+            <a href="https://open.weixin.qq.com/connect/qrconnect?appid=wx268fcfe924dcb171&redirect_uri=https%3A%2F%2Fwww.zhihu.com%2Foauth%2Fcallback%2Fwechat%3Faction%3Dlogin%26from%3D&response_type=code&scope=snsapi_login&state=464147674d474b6141786f64475264593170544445533854397a416178447859#wechat" target="_blank"><img class="wechattype" src="wechat.jpg"  ></a>
+            </div>
+
+           <div class="QQ">
+              <a href="https://graph.qq.com/oauth2.0/show?which=Login&display=pc&scope=get_user_info%2Cget_info%2Cadd_t%2Cadd_pic_t%2Cget_other_info%2Cget_fanslist%2Cget_idollist%2Cadd_idol%2Cadd_share&state=464147674d474b6141786f64475264593170544445533854397a416178447859&redirect_uri=https%3A%2F%2Fwww.zhihu.com%2Foauth%2Fcallback%2Fqqconn%3Faction%3Dlogin%26from%3D&response_type=code&client_id=100490701" target="_blank"><img class="qq" src="QQ.jpg"></a>
+           </div>
+            <div class="weibo">
+                <a href="https://api.weibo.com/oauth2/authorize?scope=email&state=464147674d474b6141786f64475264593170544445533854397a416178447859&redirect_uri=http%3A%2F%2Fwww.zhihu.com%2Foauth%2Fcallback%2Fsina&response_type=code&client_id=3063806388" target="_blank"><img class="weibotype" src="weibo.jpg"></a>
+            </div>
+        </div>
+        <div class="child-eight">
+            <p class="end">© 2020 知乎京 ICP 证 110745 号京公网安备 11010802010035 号出版物经营许可证
+                侵权举报网上有害信息举报专区儿童色情信息举报专区违法和不良信息举报：010-82716601</p>
+        </div>
+
+
+
+
+
+
+            </div>
+
+
+
+
+
+
+
+
+    </div>
+    
+</body>
+<script type="text/javascript" src="知乎登录.js"></script>
+</html>

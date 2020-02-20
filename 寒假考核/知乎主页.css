@@ -1,0 +1,175 @@
+body{
+    background-color: rgb(201, 207, 212);
+    margin: 0px;
+}
+
+
+.childtop{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: white;
+    height: 60px;
+    
+}
+.shouye{
+    margin-top: 20px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+.find{
+    margin-top: 20px;
+    margin-right: 40px;
+}
+.respond{
+    margin-top: 20px;
+    margin-right: 40px;
+}
+.research{
+    margin-top: 15px;
+    margin-right: 40px;
+    height: 30px;
+    width: 250px;
+}
+.submit{
+    margin-top: 15px;
+    margin-right: 100px;
+    width: 50px;
+    height: 30px;
+    background-color: rgb(0, 162, 255);
+    color: white;
+    border: 0px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+.xin{
+    margin-top: 15px;
+}
+.user{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.father{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.childone{
+    margin-top: 10px;
+    width: 600px;
+    height: 50px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+ 
+}
+.containt{
+    background-color: white;
+    width: 600px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+.tipcle1,.tipcle2,.tipcle3,.tipcle4,.tipcle5,.tipcle6{
+    background-color: aliceblue;
+    width: 600px;
+    height: 120px;
+    margin-top: 5px;
+}
+.tuijian{
+    margin-right: 2px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    
+}
+.guanzhu{
+    margin-right: 2px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.rebang{
+    margin-right: 2px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.childtwo{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    width: 350px;
+    height: 300px;
+    background-color: white;
+    display: flex;
+    align-content: stretch;
+    flex-wrap: wrap;
+
+
+
+}
+.xiehuida{
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.xiewendang{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.xiexiangfa{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+}
+.fashipin{
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.dengdaida{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.caogao{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+}
+.childthree{
+    margin-top: 5px;
+    margin-left: 5px;
+    width: 600px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+.childfour{
+    margin-top: 5px;
+    margin-left: 10px;
+    width: 350px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+.read{
+    border: none;
+    background-color: aliceblue;
+    padding: 0px;
+    margin: 0px;
+}
+p{
+    font-size: 14px;
+}
